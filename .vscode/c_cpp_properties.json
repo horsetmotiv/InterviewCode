@@ -9,7 +9,8 @@
                 "C:Program Files (x86)/mingw-w64/mingw32/lib/gcc/i686-w64-mingw32/7.2.0/include/c++/backward",
                 "C:/Program Files (x86)/mingw-w64/mingw32/lib/gcc/i686-w64-mingw32/7.2.0/include",
                 "C:/Program Files (x86)/mingw-w64/mingw32/include",
-                "C:Program Files (x86)/mingw-w64/mingw32/lib/gcc/i686-w64-mingw32/7.2.0/include-fixed"
+                "C:Program Files (x86)/mingw-w64/mingw32/lib/gcc/i686-w64-mingw32/7.2.0/include-fixed",
+                "C:/Program Files (x86)/mingw-w64/mingw32/lib/gcc/i686-w64-mingw32/7.2.0/include/c++/i686-w64-mingw32"
             ],
             "defines": [
                 "_DEBUG",
@@ -27,7 +28,9 @@
                 ],
                 "limitSymbolsToIncludedHeaders": true,
                 "databaseFilename": ""
-            }
+            },
+            "cStandard": "c11",
+            "cppStandard": "c++17"
         }
     ],
     "version": 3

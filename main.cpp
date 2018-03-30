@@ -1,7 +1,6 @@
-#include "NetEase/divide_3.h"
+#include "2017Campus/Choir.h"
 
 int main() {
-    Solution s;
-    s.test();
+    test();
     return 0;
 }
