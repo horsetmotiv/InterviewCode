@@ -38,7 +38,10 @@
         "list": "cpp",
         "algorithm": "cpp",
         "ios": "cpp",
-        "string_view": "cpp"
+        "string_view": "cpp",
+        "map": "cpp",
+        "chrono": "cpp",
+        "valarray": "cpp"
     },
     "C_Cpp.intelliSenseEngineFallback": "Enabled",
     "C_Cpp.errorSquiggles": "Disabled"
